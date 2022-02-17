@@ -1,4 +1,4 @@
-## Visualizing California Water Quality
+## Visualizing California Water Quality With Python
 
 # Source Data
 [California Open Data Portal](https://data.ca.gov/) provides water quality data available [here](https://data.ca.gov/dataset/water-quality-data). This contains data ranging from 1968 to 2022 and has results for parameters such as dissolved oxygen and chemical levels. In this example, I will be looking at the Dissolved Oxygen Levels in California.
@@ -30,3 +30,5 @@ Notes
 - *[Altair](https://altair-viz.github.io/index.html)* to create the visualization
 - *[Streamlit](https://docs.streamlit.io/)* to host the visualization
 
+# Source Code
+Source code is available [here](https://github.com/Denvernoell/California-Water-Quality).
