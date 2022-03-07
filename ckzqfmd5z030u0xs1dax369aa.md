@@ -11,7 +11,7 @@ Notes
 - Hovering over a point will show additional information for the point
 - Clicking on a station in the legend will highlight points from that station
 
-<iframe src="https://datapane.com/u/denvernoell/reports/E7yq5g7/water/embed/" width="100%" height="540px" style="border: none;">IFrame not supported</iframe>
+<iframe src="https://datapane.com/u/denvernoell/reports/E7yq5g7/water/embed/" width="100%" height="800em" style="border: none;">IFrame not supported</iframe>
 
 
 
