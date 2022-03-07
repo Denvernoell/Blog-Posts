@@ -11,24 +11,15 @@ Notes
 - Hovering over a point will show additional information for the point
 - Clicking on a station in the legend will highlight points from that station
 
+<iframe src="https://datapane.com/u/denvernoell/reports/E7yq5g7/water/embed/" width="100%" height="540px" style="border: none;">IFrame not supported</iframe>
 
-<iframe 
-	src='https://share.streamlit.io/denvernoell/california-water-quality/main/visualization.py'
-      frameborder="0"
-      marginheight="0"
-      marginwidth="0"
-      width="950"
-      height="825"
-      scrolling="no"
 
-	>
-	</iframe>
 
 ---
 # Python Modules Used
 - *[Pandas](https://pandas.pydata.org/)* to select a trimmed dataset from the original data
 - *[Altair](https://altair-viz.github.io/index.html)* to create the visualization
-- *[Streamlit](https://docs.streamlit.io/)* to host the visualization
+- *[Datapane](https://datapane.com/)* to host the visualization
 
 # Source Code
 Source code is available [here](https://github.com/Denvernoell/California-Water-Quality).
