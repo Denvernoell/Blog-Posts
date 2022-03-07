@@ -10,6 +10,7 @@ The graphic below shows the monthly Dissolved Oxygen Level for each station. The
 Notes
 - Hovering over a point will show additional information for the point
 - Clicking on a station in the legend will highlight points from that station
+- Viewing in landscape mode on mobile devices is advised
 
 <iframe src="https://datapane.com/u/denvernoell/reports/E7yq5g7/water/embed/" width="100%" height="800em" style="border: none;">IFrame not supported</iframe>
 
